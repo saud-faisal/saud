@@ -1,5 +1,0 @@
-Author: saud faisal
-Last Updated : 2 months ago
-License : LaTeX Project Public License 1.3c
-Abstract: This is an example CV created using altacv.cls (v1.7.3, 31 Oct 2024), based on Marissa Mayer's CV created by BusinessInsider using enhancv.
-          You can edit a "bare bones" AltaCV template as well. Examples of producing a publication list and referees section is provided on the second page.
